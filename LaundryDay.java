@@ -11,14 +11,14 @@ import java.util.ArrayList;
 import java.util.Set; 
 import java.util.HashSet; 
 import java.util.Collections;
-import java.util.HashMap; 
+
 
 //Your submission should *ONLY* use the following class name
 public class Problem {
 
 private static ArrayList<String> rawData = new ArrayList<>();
 private static ArrayList<String> result = new ArrayList<>();
-private static HashMap<Integer, String> hm = new HashMap<>();
+
 
 
     public static void main(String[] args)

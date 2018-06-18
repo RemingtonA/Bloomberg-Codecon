@@ -90,7 +90,7 @@ private static ArrayList<String> result = new ArrayList<>();
                     output = count + "|" + searchWord;
                     result.add(output);
         
-                }
+                } 
         
             }
     

@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.HashSet; 
+import java.util.HashSet;  
 import java.util.Set;
 
 //Your submission should *ONLY* use the following class name
